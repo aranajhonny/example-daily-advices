@@ -1,0 +1,23 @@
+{
+  "schema": {
+    "types": [
+      {
+        "name": "Root",
+        "actions": [
+          {
+            "name": "configure",
+            "type": "Void"
+          },
+          {
+            "name": "sendAdvice",
+            "type": "Void"
+          }
+        ]
+      }
+    ]
+  },
+  "dependencies": {
+    "openai": "openai:",
+    "email": "email:"
+  }
+}
