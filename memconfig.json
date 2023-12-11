@@ -6,13 +6,16 @@
         "actions": [
           {
             "name": "configure",
-            "type": "Void"
+            "type": "Void",
+            "description": "Configure the daily advice program"
           },
           {
             "name": "sendAdvice",
-            "type": "Void"
+            "type": "Void",
+            "description": "Send out the daily advice"
           }
-        ]
+        ],
+        "description": "Collection of daily advice actions"
       }
     ]
   },
