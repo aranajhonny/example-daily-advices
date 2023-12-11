@@ -15,7 +15,7 @@
             "description": "Send out the daily advice"
           }
         ],
-        "description": "Collection of daily advice actions"
+        "description": "example of a program to send daily advices."
       }
     ]
   },
